@@ -14,4 +14,6 @@ To test the conctract, execute below commands
 $cd ..
 $npm run test 
 
+Please refer to below link for installation and deployment of private ethereum network.
+https://sites.google.com/site/hyungjongkim/ethereum-private-network-construction
 
